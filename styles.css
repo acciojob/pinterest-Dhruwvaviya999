@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+.hero{
+	height:600px;
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+}
+
+img{
+	width:600px;
+	height:400px;
+	object-fit:cover:
+}
+
+button{
+	background-color:red;
+	color:white;
+	border:none;
+	padding:6px;
+	border-radius:3px;
+	margin-left:10rem;
+}
+
+button:hover{
+	cursor:pointer;
+}
+
+
+
